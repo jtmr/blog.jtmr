@@ -1,3 +1,7 @@
 baseurl = "http://blog.jtmr.jp/"
 languageCode = "ja-JP"
 title = "jtmr blog"
+
+[params]
+author = "jtmr"
+
